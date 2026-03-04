@@ -13,13 +13,12 @@ body {
 main {
   text-align: center;
 }
-<<<<<<< HEAD
 #datetime {
   background-color: white;
   width: 300px;
   margin: auto;
   border: 1px solid grey;
-=======
+}
 
 button {
   background-color: black;
@@ -27,5 +26,4 @@ button {
   margin: 10px;
   padding: 10px;
   border-radius: 8px;
->>>>>>> 05232ec (Tyylitelty mustavalkoinen nappula CSS:llä)
 }

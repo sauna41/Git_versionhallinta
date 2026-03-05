@@ -1,6 +1,7 @@
 # Hello-ohjelma Projekti
 
 **Kurssi:** Git-versionhallinta - SOF013AS2A-3002 
+
 **Tekijä:** Henri Äikäs  
 
 ## Projektin sisältö
